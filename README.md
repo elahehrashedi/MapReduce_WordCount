@@ -5,11 +5,13 @@ each word in a given input file, your program counts the occurrences of each wor
 length.
 
 For example, when the content of the input file is:
+
 	Hello World	
 	Hello Hadoop
 	Hello Mapreduce
 
 Then the output should be:
+
 	5 4
 	6 1
 	9 1
